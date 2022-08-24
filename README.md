@@ -1,2 +1,2 @@
 # Final_Project
- pre code 
+ A application that announce events and updates about Phinma Upang
